@@ -14,7 +14,7 @@ https://gitee.com/longpanda/Ventoy.git
 
 四个项目都要编译....
 
-3. 一定要有 grub
+3. 一定要有 grub（INSTALL目录里有）
 
 4. 还有插件呢运行会提示
 
